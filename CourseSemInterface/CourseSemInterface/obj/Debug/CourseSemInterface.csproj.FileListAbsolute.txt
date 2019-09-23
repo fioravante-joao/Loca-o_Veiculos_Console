@@ -1,0 +1,7 @@
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\bin\Debug\CourseSemInterface.exe.config
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\bin\Debug\CourseSemInterface.exe
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\bin\Debug\CourseSemInterface.pdb
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\obj\Debug\CourseSemInterface.csprojAssemblyReference.cache
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\obj\Debug\CourseSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\obj\Debug\CourseSemInterface.exe
+C:\Users\jfioravante\source\repos\CourseSemInterface\CourseSemInterface\obj\Debug\CourseSemInterface.pdb
